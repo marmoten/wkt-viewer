@@ -1,0 +1,23 @@
+{
+  "name": "leaflet_wkt_viewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marmoten/wkt-viewer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marmoten/wkt-viewer/issues"
+  },
+  "homepage": "https://github.com/marmoten/wkt-viewer#readme",
+  "engines": {
+    "node": "6.2.1"
+  }
+}
